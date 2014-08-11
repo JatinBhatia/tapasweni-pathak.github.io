@@ -24,7 +24,12 @@ p {
     font-size: 22px;
     line-height: 1.5;
 }
-
+::selection {
+  background: #CC99FF; 
+}
+::-moz-selection {
+  background: #CC99FF; 
+}
 
 a {
     color: #9400D3;
