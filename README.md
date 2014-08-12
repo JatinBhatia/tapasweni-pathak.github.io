@@ -1,4 +1,4 @@
-Creating tapasweni-pathak.github.io
+My Personal Page
 ======
 
 [Tapasweni Pathak] (http://tapasweni-pathak.github.io/)
