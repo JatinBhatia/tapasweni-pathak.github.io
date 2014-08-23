@@ -145,9 +145,16 @@ a:active {
 
 .intro-text i {
     font-size: 30px;
-    color: #ffffff;
+    color: #FFFFFF;
+	-webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
+.intro-text i:hover {
+	font-size : 30px;
+	color = #FFFFFF
+}
 .intro-text .fa-file-text {
     font-size: 28px;
     color: #ffffff;
