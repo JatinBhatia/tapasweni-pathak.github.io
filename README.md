@@ -1,4 +1,4 @@
-My Personal Page
+My Website
 ======
 
-[Tapasweni Pathak] (http://tapasweni-pathak.github.io/)
+http://tapasweni-pathak.github.io/
