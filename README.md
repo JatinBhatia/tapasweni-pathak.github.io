@@ -1,11 +1,8 @@
-My Web Page
+Homepage
 ======
 
 
 
 
-Thanks :
+[Thanks](https://github.com/biomadeira/sustain)
 
-* Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
-
-* For more details, read the [documentation](http://jekyllrb.com/)

@@ -1,32 +1,25 @@
-# Site settings
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+url: http://tapasweni-pathak.github.io/
+baseurl: http://tapasweni-pathak.github.io/
 title: Tapasweni Pathak
+author: Tapasweni Pathak
+description: Homepage of Tapasweni Pathak.
+avatar: profile.png
 email: tapaswenipathak@gmail.com
-url: https://tapasweni-pathak.github.io
-description: " About Tapasweni Pathak"
+github: tapasweni-pathak # username
+twitter: TapasweniPathak
+linkedin: tapaswenipathak
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
 
-# Footer settings
-footer: Tapasweni Pathak
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/TapasweniPathak
-  - title: linkedin
-    url: https://www.linkedin.com/in/tapaswenipathak/
-  - title: pinterest
-    url: https://www.pinterest.com/tapaswenipathak/
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/1492873/tapasweni-pathak
-  - title: wordpress
-    url: https://tapaswenipathak.wordpress.com/
-  - title: github
-    url: https://github.com/tapasweni-pathak
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+# needed for travis-ci build
+exclude: [vendor]
