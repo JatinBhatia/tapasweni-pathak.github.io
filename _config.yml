@@ -19,7 +19,7 @@ email: tapaswenipathak@gmail.com
 github: tapasweni-pathak # username
 twitter: TapasweniPathak
 linkedin: tapaswenipathak
-
+medium: TapasweniPathak
 
 # needed for travis-ci build
 exclude: [vendor]
